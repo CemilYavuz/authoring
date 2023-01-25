@@ -9,10 +9,10 @@
         
         
  # externer Link
-  Github-Dokumentation [->]{https://help.github.com/en)
+  [Github-Dokumentation] {https://help.github.com/en)
   
  # Link zum Bilder Ordner
-  Meine Bilder [hier]{logo.png)
+  ![Mein Bild] [logo.png]
  
  
  # Mein Bild
