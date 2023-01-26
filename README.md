@@ -1,37 +1,36 @@
 # Github Flavoured Markdown
 
 # Kontrollkästchen
-        [ ] Externer Link
-        [ ] Interner Link
-        [ ] Bilder
-        [ ] Emojis
-        [ ] Tabellen
+        [ ] Externer Link(#externerLink)
+        [ ] Interner Link(#internerLink)
+        [ ] Bilder(#bilder)
+        [ ] Emojis(#emojis)
+        [ ] Tabelle(#tabelle)
         
         
  # Externer Link
-  [Github-Dokumentation] {https://help.github.com/en)
+  Github-Dokumentation [hier klicken](https://help.github.com/en)
   
   
  # Interner Link
- 
+  ![Das sind mein Bilder](./Image)
+
   
+
  # Bilder
-  ![Mein Bild] [logo.png]
+ ![Das ist mein Bild](./logo.png)
  
- 
- # Mein Bild
- logo.png
- 
- # Emoji
+ # Emojis
  😄  
  
- # tabelle
+ # Tabelle
  | Name | Klasse |
  | ------ | ------ |
  | Anton | 1a |
  | Viktor | 2b |
  | Hans | 3c |
  | Jimmy | 4d |
+ 
  
  
  
